@@ -15,6 +15,7 @@ Rule:
 - DOMAIN-KEYWORD,88ys,DIRECT
 - DOMAIN-KEYWORD,huawei,REJECT
 - DOMAIN-SUFFIX,sina.com,DIRECT
+- DOMAIN-SUFFIX,blog.csdn.net,DIRECT
 
 # 规则
 
