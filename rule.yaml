@@ -1,3 +1,6 @@
+Rule:
+
+
 # >oneself
 - DOMAIN-KEYWORD,ncuos,DIRECT
 - DOMAIN-KEYWORD,weibo,DIRECT
@@ -14,7 +17,7 @@
 - DOMAIN-SUFFIX,sina.com,DIRECT
 
 # 规则
-Rule:
+
 # Unbreak
 # > Google
 - DOMAIN-SUFFIX,googletraveladservices.com,DIRECT
