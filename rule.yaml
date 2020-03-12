@@ -18,8 +18,6 @@ Rule:
 - DOMAIN-KEYWORD,csdn,DIRECT
 
 # 规则
-Rule:
-
 
 # > iqiyi & pps
 - DOMAIN-SUFFIX,a.ckm.iqiyi.com,REJECT
