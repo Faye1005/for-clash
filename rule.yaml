@@ -16,7 +16,9 @@ Rule:
 - DOMAIN-KEYWORD,huawei,REJECT
 - DOMAIN-KEYWORD,sina,DIRECT
 - DOMAIN-KEYWORD,csdn,DIRECT
+- DOMAIN-SUFFIX,meijuxingqiu.com,DIRECT
 - DOMAIN-KEYWORD,meijuxingqiu,DIRECT
+
 
 # 规则
 
