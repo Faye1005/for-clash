@@ -18,6 +18,7 @@ Rule:
 - DOMAIN-KEYWORD,csdn,DIRECT
 - DOMAIN-SUFFIX,meijuxingqiu.com,DIRECT
 - DOMAIN-KEYWORD,meijuxingqiu,DIRECT
+- DOMAIN-SUFFIX,nfmovies.com,DIRECT
 
 
 # 规则
