@@ -20,6 +20,7 @@ Rule:
 - DOMAIN-SUFFIX,meijuxingqiu.com,DIRECT
 - DOMAIN-KEYWORD,meijuxingqiu,DIRECT
 - DOMAIN-SUFFIX,nfmovies.com,DIRECT
+- DOMAIN-SUFFIX,runoob.com,DIRECT
 
 
 # 规则
