@@ -22,6 +22,7 @@ Rule:
 - DOMAIN-KEYWORD,meijuxingqiu,DIRECT
 - DOMAIN-SUFFIX,nfmovies.com,DIRECT
 - DOMAIN-SUFFIX,runoob.com,DIRECT
+- DOMAIN-SUFFIX,coolapk.com,DIRECT
 
 
 # 规则
