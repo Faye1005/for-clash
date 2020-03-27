@@ -24,8 +24,7 @@ Rule:
 - DOMAIN-SUFFIX,coolapk.com,DIRECT
 - DOMAIN-SUFFIX,portal.caipin.pro,DIRECT
 
-## 🚦 DMCA敏感
-## > DMCA敏感
+
 # > qbittorrent
 DOMAIN-SUFFIX,qbittorrent.org,DIRECT
 ## Private Tracker
