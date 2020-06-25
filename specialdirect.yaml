@@ -1,5 +1,4 @@
 payload:
-#11
   - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN-KEYWORD,88ys
   - DOMAIN-KEYWORD,ccaeo
@@ -36,7 +35,7 @@ payload:
   - DOMAIN-SUFFIX,woozooo.com
   - DOMAIN-SUFFIX,yxssp.com
   
-#22
+
  - DOMAIN-SUFFIX,qbittorrent.org
  - DOMAIN-SUFFIX,awesome-hd.me
  - DOMAIN-SUFFIX,broadcasthe.net
