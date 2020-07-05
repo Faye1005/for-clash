@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,safebrowsing.googleapis.com
+  - DOMAIN,neetgo.com
   - DOMAIN-KEYWORD,88ys
   - DOMAIN-KEYWORD,ccaeo
   - DOMAIN-KEYWORD,chaoxing
