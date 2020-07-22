@@ -1,6 +1,6 @@
 payload:
   - DOMAIN,safebrowsing.googleapis.com
-  - DOMAIN-SUFFIX,yhdm.tv
+  - DOMAIN-KEYWORD,yhdm
   - DOMAIN,neetgo.com
   - DOMAIN-KEYWORD,88ys
   - DOMAIN-KEYWORD,ccaeo
