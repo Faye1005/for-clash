@@ -2,6 +2,7 @@ payload:
   - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN-KEYWORD,yhdm
   - DOMAIN,neetgo.com
+  - DOMAIN,yacd.haishan.me
   - DOMAIN,sina.com-h-sina.com
   - DOMAIN-KEYWORD,88ys
   - DOMAIN-KEYWORD,ccaeo
