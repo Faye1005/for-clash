@@ -1,6 +1,8 @@
 payload:
   - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN-KEYWORD,yhdm
+  - DOMAIN-KEYWORD,iqiyi
+  - DOMAIN-SUFFIX,iqiyi.cdn27-okzy.com  
   - DOMAIN,neetgo.com
   - DOMAIN,yacd.haishan.me
   - DOMAIN,sina.com-h-sina.com
