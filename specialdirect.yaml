@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,safebrowsing.googleapis.com
+  - DOMAIN-SUFFIX,aliyun.com
   - DOMAIN-KEYWORD,yhdm
   - DOMAIN-KEYWORD,iqiyi
   - DOMAIN-SUFFIX,iqiyi.cdn27-okzy.com  
