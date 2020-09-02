@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN-SUFFIX,aliyun.com
   - DOMAIN-SUFFIX,shufaai.com
   - DOMAIN-KEYWORD,yhdm
