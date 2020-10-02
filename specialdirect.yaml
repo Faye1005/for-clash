@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,aliyun.com
   - DOMAIN-SUFFIX,shufaai.com
+  - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,hp.com
   - DOMAIN-KEYWORD,yhdm
   - DOMAIN-KEYWORD,iqiyi
