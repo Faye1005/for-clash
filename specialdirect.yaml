@@ -9,7 +9,7 @@ payload:
   - DOMAIN-KEYWORD,iqiyi
   - DOMAIN-SUFFIX,iqiyi.cdn27-okzy.com  
   - DOMAIN,neetgo.com
-  - DOMAIN,yacd.haishan.me
+  - DOMAIN-KEYWORD,haishan
   - DOMAIN,sina.com-h-sina.com
   - DOMAIN-KEYWORD,88ys
   - DOMAIN-KEYWORD,ccaeo
