@@ -1,4 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,rubycloud
   - DOMAIN-KEYWORD,zlibcdn
+  - DOMAIN-SUFFIX,book4you.org
+  - DOMAIN-KEYWORD,booksc
   
