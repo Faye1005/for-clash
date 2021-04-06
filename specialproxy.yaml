@@ -4,5 +4,5 @@ payload:
   - DOMAIN-SUFFIX,book4you.org
   - DOMAIN-SUFFIX,ctext.org
   - DOMAIN-KEYWORD,booksc
-  - DOMAIN-SUFFIX,adguard.org
+#  - DOMAIN-SUFFIX,adguard.org
   
