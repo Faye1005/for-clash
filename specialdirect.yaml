@@ -22,7 +22,7 @@ payload:
   - DOMAIN-KEYWORD,ncuos
   - DOMAIN-KEYWORD,nfmovies
   - DOMAIN-SUFFIX,bdimg.com
-  - DOMAIN-SUFFIX,10101.io
+  #- DOMAIN-SUFFIX,10101.io
   - DOMAIN-SUFFIX,blog.csdn.net
   - DOMAIN-SUFFIX,chaospace.fun
   - DOMAIN-SUFFIX,cipread.com
